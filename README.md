@@ -6,6 +6,12 @@ This project demonstrates basic arithmetic operations with a clean UI and proper
 
 ---
 
+## ✅ Optional: Center Image (Advanced)
+
+<img width="1919" height="1018" alt="output image" src="https://github.com/user-attachments/assets/5ba79d64-45fc-4007-acce-a969d504e897" />
+
+---
+
 ## 📌 Project Overview
 
 The Spring Boot Calculator allows users to perform:
