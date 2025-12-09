@@ -3,8 +3,6 @@
 A simple and modern **Calculator Web Application** built using **Spring Boot**, **Spring MVC**, and **Thymeleaf**.  
 This project demonstrates basic arithmetic operations with a clean UI and proper backend controller logic.
 
-![Uploading Screenshot 2025-12-09 194009.png…]()
-
 
 ---
 
